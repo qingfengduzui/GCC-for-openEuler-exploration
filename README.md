@@ -1,6 +1,6 @@
 # GCC-for-openEuler-exploration
 ### 团队介绍
-贾轲 宋冠喆 曹泽阳 王旭博 王钟强
+贾轲 宋冠喆 曹泽阳 王旭博 王钟强 
 ### 项目内容
 这是重庆大学翻转课堂的项目内容
 学习GCC for openEuler编译器的特点和应用，正确安装搭建环境，参考链接中的应用场景，设计能凸显GCC for openEuler特点的应用场景案例。
