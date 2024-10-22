@@ -3,7 +3,7 @@
 贾轲 宋冠喆 曹泽阳 王旭博 王钟强
 ### 项目内容
 学习GCC for openEuler编译器的特点和应用，正确安装搭建环境，参考链接中的应用场景，设计能凸显GCC for openEuler特点的应用场景案例。
-参考：[https](https://lab.huaweicloud.com/testdetail_564)
+参考：https://lab.huaweicloud.com/testdetail_564
 ### 项目架构
 #### GCC for openEuler的基础知识背景探索与总结
 #### GCC for openEuler的基础特性分析
